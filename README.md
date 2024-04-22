@@ -1,2 +1,2 @@
-# Project-1-Aliens-Invader
-Aliens Invaders
+# Tyler Cody | Programming in Art 
+All projects | Spring 2024
